@@ -5,3 +5,4 @@ Git is free software.
 add new line v2
 branch master
 fix bug 101
+add new feature 1
